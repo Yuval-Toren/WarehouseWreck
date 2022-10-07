@@ -1155,3 +1155,137 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.07-12.03.53:773][721]LogFileHelpers: Saving map 'Main' took 0.079
 [2022.10.07-12.03.53:786][721]AssetCheck: New page: Asset Save: Main
 [2022.10.07-12.03.53:786][721]LogContentValidation: Display: Validating World /Game/MyAssets/Maps/Main.Main
+[2022.10.07-12.28.05:110][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.10.07-12.28.05:158][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyAssets/Maps/Main_Auto2
+[2022.10.07-12.28.05:158][579]LogSavePackage: Moving '../../../../../../Users/yuval/Documents/Unreal Projects/WarehouseWreck/Saved/Main_Auto2773B1394426653D691D422B443276CE2.tmp' to '../../../../../../Users/yuval/Documents/Unreal Projects/WarehouseWreck/Saved/Autosaves/Game/MyAssets/Maps/Main_Auto2.umap'
+[2022.10.07-12.28.05:164][579]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyAssets/Maps/Main' took 0.081
+[2022.10.07-12.28.05:164][579]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.081
+[2022.10.07-12.29.30:211][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.07-12.29.30:301][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.07-12.29.30:348][621]LogSavePackage: Moving output files for package: /Game/MyAssets/Maps/Main
+[2022.10.07-12.29.30:349][621]LogSavePackage: Moving '../../../../../../Users/yuval/Documents/Unreal Projects/WarehouseWreck/Saved/Main86CE08E8426EB45DAC495EB1DEEFA7A4.tmp' to '../../../../../../Users/yuval/Documents/Unreal Projects/WarehouseWreck/Content/MyAssets/Maps/Main.umap'
+[2022.10.07-12.29.30:356][621]LogFileHelpers: No new changes to save!
+[2022.10.07-12.29.30:356][621]LogFileHelpers: Saving map 'Main' took 0.079
+[2022.10.07-12.29.30:369][621]AssetCheck: New page: Asset Save: Main
+[2022.10.07-12.29.30:369][621]LogContentValidation: Display: Validating World /Game/MyAssets/Maps/Main.Main
+[2022.10.07-12.29.32:068][709]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.07-12.29.32:074][709]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.07-12.29.32:075][709]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2022.10.07-12.29.32:136][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.10.07-12.29.32:138][709]LogPlayLevel: PlayLevel: Blueprint regeneration took 64 ms (1 blueprints)
+[2022.10.07-12.29.32:138][709]PIE: New page: PIE session: Main (7 באוק׳ 2022, 18:29:32)
+[2022.10.07-12.29.32:169][709]LogPlayLevel: Creating play world package: /Game/MyAssets/Maps/UEDPIE_0_Main
+[2022.10.07-12.29.32:189][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019763s)
+[2022.10.07-12.29.32:189][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyAssets/Maps/Main.Main to /Game/MyAssets/Maps/UEDPIE_0_Main.Main (0.019865s)
+[2022.10.07-12.29.32:189][709]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.07-12.29.32:189][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.07-12.29.32:190][709]LogAIModule: Creating AISystem for world Main
+[2022.10.07-12.29.32:190][709]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2022.10.07-12.29.32:215][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.10.07-12.29.32:215][709]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.10.07-12.29.32:215][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.07-12.29.32:215][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.07-12.29.32:215][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.07-12.29.32:215][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.07-12.29.32:215][709]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.07-12.29.32:215][709]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.07-12.29.32:215][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.07-12.29.32:215][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.07-12.29.32:217][709]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.07-12.29.32:217][709]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.07-12.29.32:217][709]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.07-12.29.32:219][709]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.07-12.29.32:348][709]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2022.10.07-12.29.32:348][709]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.07-12.29.32:348][709]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.07-12.29.32:348][709]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.07-12.29.32:350][709]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.10.07-12.29.32:350][709]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.10.07-12.29.32:351][709]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.10.07-12.29.32:351][709]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.10.07-12.29.32:351][709]LogInit: FAudioDevice initialized.
+[2022.10.07-12.29.32:351][709]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main'.
+[2022.10.07-12.29.32:370][709]LogLoad: Game class is 'GameModeBase'
+[2022.10.07-12.29.32:372][709]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-12.29.32:372][709]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-12.29.32:372][709]LogChaos: Warning: Attempting to release an actor with a null handle
+[2022.10.07-12.29.32:376][709]LogWorld: Bringing World /Game/MyAssets/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2022.10.07-15.29.32
+[2022.10.07-12.29.32:376][709]LogWorld: Bringing up level for play took: 0.005450
+[2022.10.07-12.29.32:379][709]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.10.07-12.29.32:381][709]LogBlueprintUserMessages: [Main_C_2] Why are we doing this??
+[2022.10.07-12.29.32:381][709]LogBlueprintUserMessages: [Main_C_2] Welcome to hell!
+[2022.10.07-12.29.32:381][709]LogBlueprintUserMessages: [Main_C_2] 20
+[2022.10.07-12.29.32:381][709]PIE: Server logged in
+[2022.10.07-12.29.32:381][709]PIE: Play in editor total start time 0.308 seconds.
+[2022.10.07-12.29.35:390][884]LogBlueprintUserMessages: [Main_C_2] 19
+[2022.10.07-12.29.35:654][900]LogBlueprintUserMessages: [Main_C_2] 18
+[2022.10.07-12.29.36:138][929]LogBlueprintUserMessages: [Main_C_2] 17
+[2022.10.07-12.29.36:471][949]LogBlueprintUserMessages: [Main_C_2] 16
+[2022.10.07-12.29.36:788][968]LogBlueprintUserMessages: [Main_C_2] 15
+[2022.10.07-12.29.37:254][996]LogBlueprintUserMessages: [Main_C_2] 14
+[2022.10.07-12.29.37:471][  9]LogBlueprintUserMessages: [Main_C_2] 13
+[2022.10.07-12.29.37:621][ 18]LogBlueprintUserMessages: [Main_C_2] 12
+[2022.10.07-12.29.37:821][ 30]LogBlueprintUserMessages: [Main_C_2] 11
+[2022.10.07-12.29.38:022][ 42]LogBlueprintUserMessages: [Main_C_2] 10
+[2022.10.07-12.29.38:205][ 53]LogBlueprintUserMessages: [Main_C_2] 9
+[2022.10.07-12.29.38:388][ 64]LogBlueprintUserMessages: [Main_C_2] 8
+[2022.10.07-12.29.38:571][ 75]LogBlueprintUserMessages: [Main_C_2] 7
+[2022.10.07-12.29.38:738][ 85]LogBlueprintUserMessages: [Main_C_2] 6
+[2022.10.07-12.29.38:905][ 95]LogBlueprintUserMessages: [Main_C_2] 5
+[2022.10.07-12.29.39:055][104]LogBlueprintUserMessages: [Main_C_2] 4
+[2022.10.07-12.29.39:223][114]LogBlueprintUserMessages: [Main_C_2] 3
+[2022.10.07-12.29.39:405][125]LogBlueprintUserMessages: [Main_C_2] 2
+[2022.10.07-12.29.39:555][134]LogBlueprintUserMessages: [Main_C_2] 1
+[2022.10.07-12.29.39:721][144]LogBlueprintUserMessages: [Main_C_2] 0
+[2022.10.07-12.29.39:887][154]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.39:988][160]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.40:138][169]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.40:305][179]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.40:454][188]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.40:605][197]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.40:771][207]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.40:921][216]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.41:088][226]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.41:254][236]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.41:371][243]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.41:638][259]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.41:821][270]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.41:972][279]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.42:138][289]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.42:321][300]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.42:521][312]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.42:654][320]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.42:838][331]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.42:987][340]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.43:137][349]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.43:338][361]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.43:604][377]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.43:738][385]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.43:937][397]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.45:188][472]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.45:338][481]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.45:488][490]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.45:638][499]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.45:738][505]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.45:888][514]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.45:988][520]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.46:121][528]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.46:271][537]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.46:371][543]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.48:021][642]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.48:187][652]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.48:321][660]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.48:471][669]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.48:572][675]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.48:738][685]LogBlueprintUserMessages: [Main_C_2] Out OF Ammo!
+[2022.10.07-12.29.50:017][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-12.29.50:017][759]LogWorld: BeginTearingDown for /Game/MyAssets/Maps/UEDPIE_0_Main
+[2022.10.07-12.29.50:018][759]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.07-12.29.50:020][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-12.29.50:032][759]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.07-12.29.50:036][759]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.07-12.29.50:060][759]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.07-12.29.50:061][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.07-12.29.50:062][759]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.07-12.29.50:074][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.10.07-12.29.50:119][760]LogPlayLevel: Display: Destroying online subsystem :Context_15
